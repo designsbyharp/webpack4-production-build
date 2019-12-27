@@ -1,0 +1,15 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+$red: #ff0000;
+
+/// Container's maximum width
+$max-width: 1180px;
+
+/// Breakpoints map
+$breakpoints: (
+  'small': 320px,
+  'medium': 768px,
+  'large': 1024px,
+) ;
+

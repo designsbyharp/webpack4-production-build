@@ -1,0 +1,28 @@
+// -----------------------------------------------------------------------------
+// This main.scss file contains all file imports
+// -----------------------------------------------------------------------------
+
+
+@charset 'UTF-8';
+
+// 1. Configuration and helpers
+@import 'abstracts/abstracts-dir';
+
+// 2. Base stuff
+@import 'base/base-dir';
+
+// 3. Components
+@import 'components/components-dir';
+
+// 4. Layout 
+@import 'layout/layout-dir';
+
+// 5.  Pages
+@import 'pages/pages-dir';
+
+// 6.  Vendors
+@import 'vendors/vendors-dir';
+
+// 7. Themes
+// @import
+//   'themes/default';
